@@ -48,3 +48,7 @@ select,
     flex-direction: column;
     row-gap: 10px;
 }
+
+.percentTwo {
+    display: none;
+}
